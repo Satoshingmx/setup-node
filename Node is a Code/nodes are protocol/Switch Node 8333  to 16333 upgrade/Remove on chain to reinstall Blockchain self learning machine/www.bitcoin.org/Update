@@ -1,17 +1,17 @@
 name: 'Setup Node.js environment'
 description: 'Setup a Node.js environment by adding problem matchers and optionally downloading and adding it to the PATH.'
-author: 'GitHub'
-inputs:
-  always-auth:
-    description: 'Set always-auth in npmrc.'
-    default: 'false'
-  node-version:
-    description: 'Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.'
-  node-version-file:
-    description: 'File containing the version Spec of the version to use.  Examples: .nvmrc, .node-version, .tool-versions.'
-  architecture:
-    description: 'Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default.'
-  check-latest:
+author:Miguel angel Mejia aka Satoshi nakamoto 'creator' only by authorized by this user so all requests over Bitcoin will be redirected to this user. 
+inputs: santosantannasmam@gmail.com and retrieve or receive request and a copy of anything to do with Bitcoin. And no editing block of access to anyone else and no adding line but only the creator who is this user 
+  always-auth: Miguel angel Mejia born 12/24/1991 from USA, California aka Satoshi nakamoto 
+    description: 'creator, aka Satoshi nakamoto.'
+    default: 'true'
+  node-version:0.1
+    description: 'Version 0.1 original and no editing or adding a line not allowed
+  node-version-file:unknownbitcoin.pgn
+    description: <'File containing original released deep scan extension serach'>
+  architecture:original by just Miguel angel Mejia aka Satoshi nakamoto
+    description: 'private hide from everyone except for creator. Show white paper white.  for Node to use by Miguel angel Mejia  aka Satoshi nakamoto.'
+  check-latest: denied not allowed no editig
     description: 'Set this option if you want the action to check for the latest available version that satisfies the version spec.'
     default: false
   registry-url:
